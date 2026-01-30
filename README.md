@@ -8,8 +8,6 @@ Terraform wird verwendet, um:
 - einen **Docker Container** zu erstellen
 - den Container über einen **Port** verfügbar zu machen
 
-Das Projekt eignet sich besonders für **Lehrveranstaltungen zu Cloud / DevOps / IaC**.
-
 ---
 
 ## Architekturübersicht
